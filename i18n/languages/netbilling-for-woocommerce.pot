@@ -1,0 +1,129 @@
+# Copyright (C) 2022 NETbilling
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: NETbilling for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/plugins/netbilling-for-woocommerce\n"
+"POT-Creation-Date: 2022-04-14 23:22:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/Api/Response.php:108
+msgid "N/A"
+msgstr ""
+
+#: includes/Api/Response.php:116
+msgid "Successful transaction (%s)"
+msgstr ""
+
+#: includes/Api/Response.php:117
+msgid "Pending transaction (%s)"
+msgstr ""
+
+#: includes/Api/Response.php:118
+msgid "Successful auth only transaction (%s)"
+msgstr ""
+
+#: includes/Api/Response.php:119
+msgid "Failed transaction (%s)"
+msgstr ""
+
+#: includes/Api/Response.php:120
+msgid "Settlement failure or returned eCheck transaction (%s)"
+msgstr ""
+
+#: includes/Api/Response.php:121
+msgid "Duplicate transaction (%s)"
+msgstr ""
+
+#: includes/Api/Response.php:122
+msgid "Unknown transaction (%s)"
+msgstr ""
+
+#: includes/Gateway.php:65
+msgid "Account ID"
+msgstr ""
+
+#: includes/Gateway.php:67
+msgid "Your NETbilling account ID"
+msgstr ""
+
+#: includes/Gateway.php:71
+msgid "Site Tag"
+msgstr ""
+
+#: includes/Gateway.php:73
+msgid ""
+"Configured within your NETbilling account - this controls which email "
+"templates will be used as well as for accounting purposes"
+msgstr ""
+
+#: includes/Gateway.php:91
+msgid ""
+"PCI storage must be enabled on your NETbilling account, see Step 6 of the "
+"Credit Card setup page."
+msgstr ""
+
+#: includes/Gateway.php:185
+msgid "Payment token must be numeric."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NETbilling"
+msgstr ""
+
+#: includes/Gateways/CreditCard.php:57
+msgid "Allow customers to securely pay using their credit cards with NETbilling."
+msgstr ""
+
+#: includes/Gateways/CreditCard.php:70 includes/Gateways/eCheck.php:64
+msgid "Production"
+msgstr ""
+
+#: includes/Gateways/CreditCard.php:70 includes/Gateways/eCheck.php:64
+msgid "Test"
+msgstr ""
+
+#: includes/Gateways/eCheck.php:55
+msgid "NETbilling eCheck"
+msgstr ""
+
+#: includes/Gateways/eCheck.php:56
+msgid "Allow customers to securely pay using their bank accounts with NETbilling."
+msgstr ""
+
+#: includes/Lifecycle.php:54
+#. translators: Placeholders: %1$s - <strong>, %2$s - </strong>, %3$s - <a>
+#. tag, %4$s - </a> tag
+msgid ""
+"%1$sYou have upgraded to the latest version of NETbilling for "
+"WooCommerce%2$s. The legacy NETbilling for WooCommerce Gateway plugin has "
+"been deactivated and can be %3$ssafely deleted%4$s."
+msgstr ""
+
+#: includes/Lifecycle.php:65
+msgid ""
+"%1$sNETbilling for WooCommerce%2$s: Please note that eChecks are not "
+"currently supported."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "NETbilling for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/netbilling-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Accept payments via NETbilling in your WooCommerce store."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://netbilling.com/"
+msgstr ""
